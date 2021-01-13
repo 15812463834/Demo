@@ -1,0 +1,33 @@
+.belove{
+    float: left;
+    background-color: darkgray; 
+    border-style:inherit;
+    color: black;
+    height: 95px;
+    margin:0px 0px 0px 0px;
+    padding: 0px;
+    line-height: 95px;/*line-height用来数值居中,长度等于该div的长度*/
+    
+}
+#styyle{
+    float: left;
+    margin:0px;
+    height: 95px;
+    background-color:beige;
+    width: 1100px;
+
+}
+.right{
+    color: aliceblue;
+    width: 1183px;
+    background-color: gray;
+    margin-bottom:0px;
+    height: 65px;
+    line-height: 65px;
+}
+.clearfix {
+    overflow: auto;
+    zoom: 1;
+    height:96px;
+    margin: 0px;
+  }
